@@ -1,2 +1,2 @@
 # Video-Analysis
-Calculate the Screen Time with Python codes.
+Python codes for videos and images stuffs.
